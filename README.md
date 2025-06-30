@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Christian Lancheros
 
-🚀 Full Stack Software Developer | Co-founder at TY Solutions SAS  
+🚀 Full Stack Software Developer
 * 💻 Passionate about building scalable, efficient, and modern web applications  
 * 🔍 Interested in software architecture, automation, and AI  
 <!--👀 I am interested in learning about the area of web development, especially the Back-end, while I search a new way to be a better me doing a lot of productive things.-->
 * 🌍  I'm based in Colombia
 * ✉  You can contact me at [clancheros01@gmail.com](mailto:clancheros01@gmail.com)
-* 🧠  I'm a multi-language  Developper , I'm focusing on the Java programming language. I have knowledge in C++, JavaScript, HTML & CSS and Data Analisis whit Python.
+* 🧠  I'm a multi-language  Developper , I'm focusing on the Java programming language. I have knowledge in C++, JavaScript, HTML & CSS and Data Analisis with Python.
   
 ### Skills
 
