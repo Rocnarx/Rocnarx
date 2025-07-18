@@ -1,20 +1,22 @@
-# 👋 Hi there, I'm Christian Lancheros
+# 👋 Hi, I'm Christian Lancheros
 
-🚀 Full Stack Software Developer
-* 💻 Passionate about building scalable, efficient, and modern web applications  
-* 🔍 Interested in software architecture, automation, and AI  
-<!--👀 I am interested in learning about the area of web development, especially the Back-end, while I search a new way to be a better me doing a lot of productive things.-->
-* 🌍  I'm based in Colombia
-* ✉  You can contact me at [clancheros01@gmail.com](mailto:clancheros01@gmail.com)
-* 🧠  I'm a multi-language  Developper , I'm focusing on the Java programming language. I have knowledge in C++, JavaScript, HTML & CSS and Data Analisis with Python.
+🎯 Software Developer focused on building real-world AI-powered tools using Python and modern technologies.
+
+- 🧠 Currently working with LLMs, prompt engineering & automation  
+- 💻 Interested in backend systems, AI applications, and data workflows  
+- 🌎 Based in Colombia — open to remote global roles  
+- 📫 Reach me at: [clancheros01@gmail.com](mailto:clancheros01@gmail.com)
   
 ### Skills
 
 <p align="left">
     <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="36" height="36" alt="FastAPI" /></a>
+  <a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="80" alt="Streamlit" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+  <a href="https://openrouter.ai" target="_blank"><img src="https://avatars.githubusercontent.com/u/134020635?s=200&v=4" width="36" height="36" alt="OpenRouter" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
     <a href="https://learn.microsoft.com/es-es/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="36" height="36" alt="C++" /></a>
@@ -47,4 +49,7 @@
 </p>
 
 ---
+
+
+🧩 Always learning. Always building.
 
